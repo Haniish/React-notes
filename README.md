@@ -22,8 +22,6 @@
 
 - To search for notes, enter a search term in the search bar. Notes that contain the search term in the title or content will be displayed.
 
-- To toggle between light and dark mode, click the toggle button in the header.
-
 ### Credits
 - This app was built with React and styled with CSS. It also uses the date-fns library for date formatting.
 
